@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "purpose": "Controlar as entradas que precisam de identificação textual antes da criação do corpus.",
+  "rule": "Nenhuma entrada REQUIRES_RESEARCH poderá ser traduzida ou publicada como identificada até receber evidência documental suficiente.",
+  "statuses": [
+    "PENDING",
+    "RESEARCHING",
+    "IDENTIFIED",
+    "CORROBORATED",
+    "DISPUTED",
+    "UNRESOLVED"
+  ],
+  "entries": [
+    {
+      "id": "Q-001",
+      "official_name": "Ezra (2nd) and Ezra Sutuel",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-002",
+      "official_name": "I Maccabees",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-003",
+      "official_name": "II and III Maccabees",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-004",
+      "official_name": "Tegsats (Reproof)",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "HIGH"
+    },
+    {
+      "id": "Q-005",
+      "official_name": "Metsihafe Tibeb (the books of wisdom)",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "HIGH"
+    },
+    {
+      "id": "Q-006",
+      "official_name": "Book of Joshua the son of Sirac",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "HIGH"
+    },
+    {
+      "id": "Q-007",
+      "official_name": "The Book of Josephas the Son of Bengorion",
+      "category": "OLD_TESTAMENT",
+      "status": "PENDING",
+      "priority": "HIGH"
+    },
+    {
+      "id": "Q-008",
+      "official_name": "Sirate Tsion",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-009",
+      "official_name": "Tizaz",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-010",
+      "official_name": "Gitsew",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-011",
+      "official_name": "Abtilis",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-012",
+      "official_name": "The I book of Dominos",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-013",
+      "official_name": "The II book of Dominos",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-014",
+      "official_name": "The book of Clement",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "Q-015",
+      "official_name": "Didascalia",
+      "category": "BROADER_CANON",
+      "status": "PENDING",
+      "priority": "CRITICAL"
+    }
+  ]
+}
