@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0.0",
+  "purpose": "Normalização da identidade textual das entradas do cânon etíope",
+  "rule": "Uma equivalência só pode ser marcada como verificada quando houver suporte documental.",
+  "entries": [
+    {
+      "id": "OT-001",
+      "official_name": "Genesis",
+      "pt_br": "Gênesis",
+      "identity": "Genesis",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-002",
+      "official_name": "Exodus",
+      "pt_br": "Êxodo",
+      "identity": "Exodus",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-003",
+      "official_name": "Leviticus",
+      "pt_br": "Levítico",
+      "identity": "Leviticus",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-004",
+      "official_name": "Numbers",
+      "pt_br": "Números",
+      "identity": "Numbers",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-005",
+      "official_name": "Deuteronomy",
+      "pt_br": "Deuteronômio",
+      "identity": "Deuteronomy",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-006",
+      "official_name": "Joshua",
+      "pt_br": "Josué",
+      "identity": "Joshua",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-007",
+      "official_name": "Judges",
+      "pt_br": "Juízes",
+      "identity": "Judges",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-008",
+      "official_name": "Ruth",
+      "pt_br": "Rute",
+      "identity": "Ruth",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-009",
+      "official_name": "I and II Samuel",
+      "pt_br": "1–2 Samuel",
+      "identity": "1-2 Samuel",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-010",
+      "official_name": "I and II Kings",
+      "pt_br": "1–2 Reis",
+      "identity": "1-2 Kings",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-011",
+      "official_name": "I Chronicles",
+      "pt_br": "1 Crônicas",
+      "identity": "1 Chronicles",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-012",
+      "official_name": "II Chronicles",
+      "pt_br": "2 Crônicas",
+      "identity": "2 Chronicles",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-013",
+      "official_name": "Jublee",
+      "pt_br": "Jubileus",
+      "identity": "Jubilees",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-014",
+      "official_name": "Enoch",
+      "pt_br": "1 Enoque",
+      "identity": "1 Enoch",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-015",
+      "official_name": "Ezra and Nehemia",
+      "pt_br": "Esdras e Neemias",
+      "identity": "Ezra-Nehemiah",
+      "status": "MEDIUM_CONFIDENCE",
+      "note": "A nomenclatura etíope deve ser preservada no inventário final."
+    },
+    {
+      "id": "OT-016",
+      "official_name": "Ezra (2nd) and Ezra Sutuel",
+      "pt_br": "2 Esdras e Esdras Sutuel",
+      "identity": "COMPOSITE_ENTRY",
+      "status": "REQUIRES_RESEARCH",
+      "note": "Não separar em livros independentes sem confirmação documental."
+    },
+    {
+      "id": "OT-017",
+      "official_name": "Tobit",
+      "pt_br": "Tobias",
+      "identity": "Tobit",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-018",
+      "official_name": "Judith",
+      "pt_br": "Judite",
+      "identity": "Judith",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-019",
+      "official_name": "Esther",
+      "pt_br": "Ester",
+      "identity": "Esther",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-020",
+      "official_name": "I Maccabees",
+      "pt_br": "1 Macabeus / Meqabyan",
+      "identity": "Meqabyan",
+      "status": "REQUIRES_RESEARCH",
+      "note": "Não assumir equivalência com 1 Macabeus grego."
+    },
+    {
+      "id": "OT-021",
+      "official_name": "II and III Maccabees",
+      "pt_br": "2–3 Macabeus / Meqabyan",
+      "identity": "Meqabyan",
+      "status": "REQUIRES_RESEARCH",
+      "note": "Os livros etíopes de Meqabyan possuem conteúdo próprio e não devem ser confundidos automaticamente com os Macabeus de outras tradições."
+    },
+    {
+      "id": "OT-022",
+      "official_name": "Job",
+      "pt_br": "Jó",
+      "identity": "Job",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-023",
+      "official_name": "Psalms",
+      "pt_br": "Salmos",
+      "identity": "Psalms",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-024",
+      "official_name": "Proverbs",
+      "pt_br": "Provérbios",
+      "identity": "Proverbs",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-025",
+      "official_name": "Tegsats (Reproof)",
+      "pt_br": "Tegsats",
+      "identity": "Proverbs-related-text",
+      "status": "REQUIRES_RESEARCH"
+    },
+    {
+      "id": "OT-026",
+      "official_name": "Metsihafe Tibeb",
+      "pt_br": "Livro da Sabedoria",
+      "identity": "Wisdom-related-text",
+      "status": "REQUIRES_RESEARCH"
+    },
+    {
+      "id": "OT-027",
+      "official_name": "Ecclesiastes",
+      "pt_br": "Eclesiastes",
+      "identity": "Ecclesiastes",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-028",
+      "official_name": "The Song of Songs",
+      "pt_br": "Cântico dos Cânticos",
+      "identity": "Song of Songs",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-029",
+      "official_name": "Isaiah",
+      "pt_br": "Isaías",
+      "identity": "Isaiah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-030",
+      "official_name": "Jeremiah",
+      "pt_br": "Jeremias",
+      "identity": "Jeremiah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-031",
+      "official_name": "Ezekiel",
+      "pt_br": "Ezequiel",
+      "identity": "Ezekiel",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-032",
+      "official_name": "Daniel",
+      "pt_br": "Daniel",
+      "identity": "Daniel",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-033",
+      "official_name": "Hosea",
+      "pt_br": "Oseias",
+      "identity": "Hosea",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-034",
+      "official_name": "Amos",
+      "pt_br": "Amós",
+      "identity": "Amos",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-035",
+      "official_name": "Micah",
+      "pt_br": "Miqueias",
+      "identity": "Micah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-036",
+      "official_name": "Joel",
+      "pt_br": "Joel",
+      "identity": "Joel",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-037",
+      "official_name": "Obadiah",
+      "pt_br": "Obadias",
+      "identity": "Obadiah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-038",
+      "official_name": "Jonah",
+      "pt_br": "Jonas",
+      "identity": "Jonah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-039",
+      "official_name": "Nahum",
+      "pt_br": "Naum",
+      "identity": "Nahum",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-040",
+      "official_name": "Habakkuk",
+      "pt_br": "Habacuque",
+      "identity": "Habakkuk",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-041",
+      "official_name": "Zephaniah",
+      "pt_br": "Sofonias",
+      "identity": "Zephaniah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-042",
+      "official_name": "Haggai",
+      "pt_br": "Ageu",
+      "identity": "Haggai",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-043",
+      "official_name": "Zechariah",
+      "pt_br": "Zacarias",
+      "identity": "Zechariah",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-044",
+      "official_name": "Malachi",
+      "pt_br": "Malaquias",
+      "identity": "Malachi",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "OT-045",
+      "official_name": "Book of Joshua the son of Sirac",
+      "pt_br": "Eclesiástico / Sirácida",
+      "identity": "Sirach",
+      "status": "MEDIUM_CONFIDENCE"
+    },
+    {
+      "id": "OT-046",
+      "official_name": "The Book of Josephas the Son of Bengorion",
+      "pt_br": "Josipon",
+      "identity": "Josippon",
+      "status": "MEDIUM_CONFIDENCE",
+      "note": "Não confundir automaticamente com Flávio Josefo."
+    }
+  ]
+}

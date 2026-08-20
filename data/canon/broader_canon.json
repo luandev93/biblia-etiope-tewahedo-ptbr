@@ -1,0 +1,39 @@
+{
+  "status": "RESEARCHED",
+  "description": "Textos associados ao chamado cânon amplo / livros de ordem eclesiástica.",
+  "groups": [
+    {
+      "id": "SINODOS",
+      "name_pt_br": "Sinodos",
+      "books": [
+        "Sirate Tsion",
+        "Tizaz",
+        "Gitsew",
+        "Abtilis"
+      ]
+    },
+    {
+      "id": "COVENANT",
+      "name_pt_br": "Livros da Aliança",
+      "books": [
+        "Livro da Aliança I",
+        "Livro da Aliança II"
+      ]
+    },
+    {
+      "id": "CLEMENT",
+      "name_pt_br": "Clemente Etíope",
+      "books": [
+        "Clemente Etíope"
+      ]
+    },
+    {
+      "id": "DIDASCALIA",
+      "name_pt_br": "Didascalia Etíope",
+      "books": [
+        "Didascalia"
+      ]
+    }
+  ],
+  "verification_note": "Esses textos serão mantidos em camada separada do núcleo de 81 livros até a conclusão da pesquisa canônica."
+}
