@@ -1,0 +1,578 @@
+{
+  "schema_version": "1.0.0",
+  "source_claim": {
+    "old_testament": 46,
+    "new_testament": 35,
+    "total": 81
+  },
+  "generated_entries": 81,
+  "entries": [
+    {
+      "canonical_id": "OT-001",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Genesis",
+      "canonical_position": 1,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-002",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Exodus",
+      "canonical_position": 2,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-003",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Leviticus",
+      "canonical_position": 3,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-004",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Numbers",
+      "canonical_position": 4,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-005",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Deuteronomy",
+      "canonical_position": 5,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-006",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Joshua",
+      "canonical_position": 6,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-007",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Judges",
+      "canonical_position": 7,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-008",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Ruth",
+      "canonical_position": 8,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-009",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "I and II Samuel",
+      "canonical_position": 9,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-010",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "I and II Kings",
+      "canonical_position": 10,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-011",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "I Chronicles",
+      "canonical_position": 11,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-012",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "II Chronicles",
+      "canonical_position": 12,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-013",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Jublee",
+      "canonical_position": 13,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-014",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Enoch",
+      "canonical_position": 14,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-015",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Ezra and Nehemia",
+      "canonical_position": 15,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-016",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Ezra (2nd) and Ezra Sutuel",
+      "canonical_position": 16,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-017",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Tobit",
+      "canonical_position": 17,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-018",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Judith",
+      "canonical_position": 18,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-019",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Esther",
+      "canonical_position": 19,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-020",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "I Maccabees",
+      "canonical_position": 20,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-021",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "II and III Maccabees",
+      "canonical_position": 21,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-022",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Job",
+      "canonical_position": 22,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-023",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Psalms",
+      "canonical_position": 23,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-024",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Proverbs",
+      "canonical_position": 24,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-025",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Tegsats (Reproof)",
+      "canonical_position": 25,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-026",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Metsihafe Tibeb (the books of wisdom)",
+      "canonical_position": 26,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-027",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Ecclesiastes",
+      "canonical_position": 27,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-028",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "The Song of Songs",
+      "canonical_position": 28,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-029",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Isaiah",
+      "canonical_position": 29,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-030",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Jeremiah",
+      "canonical_position": 30,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-031",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Ezekiel",
+      "canonical_position": 31,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-032",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Daniel",
+      "canonical_position": 32,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-033",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Hosea",
+      "canonical_position": 33,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-034",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Amos",
+      "canonical_position": 34,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-035",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Micah",
+      "canonical_position": 35,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-036",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Joel",
+      "canonical_position": 36,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-037",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Obadiah",
+      "canonical_position": 37,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-038",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Jonah",
+      "canonical_position": 38,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-039",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Nahum",
+      "canonical_position": 39,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-040",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Habakkuk",
+      "canonical_position": 40,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-041",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Zephaniah",
+      "canonical_position": 41,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-042",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Haggai",
+      "canonical_position": 42,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-043",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Zechariah",
+      "canonical_position": 43,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-044",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Malachi",
+      "canonical_position": 44,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-045",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "Book of Joshua the son of Sirac",
+      "canonical_position": 45,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "OT-046",
+      "testament": "OLD_TESTAMENT",
+      "official_name": "The Book of Josephas the Son of Bengorion",
+      "canonical_position": 46,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-001",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Matthew",
+      "canonical_position": 1,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-002",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Mark",
+      "canonical_position": 2,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-003",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Luke",
+      "canonical_position": 3,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-004",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "John",
+      "canonical_position": 4,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-005",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "The Acts",
+      "canonical_position": 5,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-006",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Romans",
+      "canonical_position": 6,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-007",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "I Corinthians",
+      "canonical_position": 7,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-008",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "II Corinthians",
+      "canonical_position": 8,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-009",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Galatians",
+      "canonical_position": 9,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-010",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Ephesians",
+      "canonical_position": 10,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-011",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Philippians",
+      "canonical_position": 11,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-012",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Colossians",
+      "canonical_position": 12,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-013",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "I Thessalonians",
+      "canonical_position": 13,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-014",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "II Thessalonians",
+      "canonical_position": 14,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-015",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "I Timothy",
+      "canonical_position": 15,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-016",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "II Timothy",
+      "canonical_position": 16,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-017",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Titus",
+      "canonical_position": 17,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-018",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Philemon",
+      "canonical_position": 18,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-019",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Hebrews",
+      "canonical_position": 19,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-020",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "I Peter",
+      "canonical_position": 20,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-021",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "II Peter",
+      "canonical_position": 21,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-022",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "I John",
+      "canonical_position": 22,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-023",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "II John",
+      "canonical_position": 23,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-024",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "III John",
+      "canonical_position": 24,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-025",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "James",
+      "canonical_position": 25,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-026",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Jude",
+      "canonical_position": 26,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-027",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Revelation",
+      "canonical_position": 27,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-028",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Sirate Tsion (the book of order)",
+      "canonical_position": 28,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-029",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Tizaz (the book of Herald)",
+      "canonical_position": 29,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-030",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Gitsew",
+      "canonical_position": 30,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-031",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Abtilis",
+      "canonical_position": 31,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-032",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "The I book of Dominos",
+      "canonical_position": 32,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-033",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "The II book of Dominos",
+      "canonical_position": 33,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-034",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "The book of Clement",
+      "canonical_position": 34,
+      "identity_status": "UNVERIFIED"
+    },
+    {
+      "canonical_id": "NT-035",
+      "testament": "NEW_TESTAMENT",
+      "official_name": "Didascalia",
+      "canonical_position": 35,
+      "identity_status": "UNVERIFIED"
+    }
+  ]
+}
