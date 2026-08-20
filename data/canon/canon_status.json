@@ -1,0 +1,24 @@
+{
+  "status": "RESEARCH_PHASE",
+  "rule": "Nenhuma entrada deve ser tratada como equivalência automática a um livro de outra tradição.",
+  "required_fields_before_verification": [
+    "canonical_id",
+    "official_name",
+    "pt_br_name",
+    "geez_name",
+    "traditional_variants",
+    "textual_identity",
+    "canonical_group",
+    "source_primary",
+    "source_secondary",
+    "verification_status",
+    "notes"
+  ],
+  "verification_status_values": [
+    "UNVERIFIED",
+    "PRIMARY_SOURCE_CONFIRMED",
+    "ACADEMICALLY_CORROBORATED",
+    "DISPUTED",
+    "IDENTITY_UNCLEAR"
+  ]
+}
