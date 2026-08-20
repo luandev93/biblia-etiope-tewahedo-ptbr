@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "status": "RESEARCH",
+  "entries": [
+    {
+      "id": "RM-001",
+      "official_name": "Ezra (2nd) and Ezra Sutuel",
+      "pt_br_candidate": "Segundo Esdras e Esdras Sutu'el",
+      "problem": "A lista agrupa duas designações que precisam ser distinguidas.",
+      "current_evidence": "Cowley identifica Ezra Sutu'el com a Ezra Apocalypse.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-002",
+      "official_name": "I Maccabees",
+      "pt_br_candidate": "1 Meqabyan",
+      "problem": "O título Maccabees pode induzir equivalência incorreta com os Macabeus gregos.",
+      "current_evidence": "Cowley registra que os Mäqabeyan etíopes não correspondem aos livros de Macabeus de outras tradições.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    },
+    {
+      "id": "RM-003",
+      "official_name": "II and III Maccabees",
+      "pt_br_candidate": "2 e 3 Meqabyan",
+      "problem": "A contagem varia conforme a forma de agrupar os três Meqabyan.",
+      "current_evidence": "Cowley documenta a diferença de contagem entre listas.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    },
+    {
+      "id": "RM-004",
+      "official_name": "Tegsats",
+      "pt_br_candidate": "Tegsats",
+      "problem": "A identidade exata e sua relação com os livros de sabedoria precisa ser documentada.",
+      "confidence": "LOW",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-005",
+      "official_name": "Metsihafe Tibeb",
+      "pt_br_candidate": "Livro(s) de Sabedoria",
+      "problem": "O título institucional não é suficiente para determinar automaticamente a identidade textual.",
+      "confidence": "LOW",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-006",
+      "official_name": "Book of Joshua the son of Sirac",
+      "pt_br_candidate": "Sabedoria de Jesus, filho de Sirac / Eclesiástico",
+      "problem": "A nomenclatura deve ser relacionada à tradição de Sirac sem apagar a forma etíope.",
+      "current_evidence": "Fontes históricas relacionam a lista a Wisdom of Jesus son of Sirach.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    },
+    {
+      "id": "RM-007",
+      "official_name": "Book of Josephas the Son of Bengorion",
+      "pt_br_candidate": "Josippon / Joseph ben Gurion",
+      "problem": "Não deve ser identificado simplesmente como Flávio Josefo.",
+      "current_evidence": "Brandt e Cowley distinguem a obra Joseph ben Gurion/Pseudo-Josephus.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    },
+    {
+      "id": "RM-008",
+      "official_name": "Sirate Tsion",
+      "pt_br_candidate": "Ser'ata Seyon / Ordem de Sião",
+      "problem": "É parte da tradição de Sinodos e precisa de identificação textual própria.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-009",
+      "official_name": "Tizaz",
+      "pt_br_candidate": "Te'ezaz / Estatutos ou Mandamentos",
+      "problem": "Transliterações e traduções variam.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-010",
+      "official_name": "Gitsew",
+      "pt_br_candidate": "Gessew / Gitsew",
+      "problem": "A forma de transliteração deve ser estabelecida a partir de fonte Geez.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-011",
+      "official_name": "Abtilis",
+      "pt_br_candidate": "Abtilis",
+      "problem": "Identidade textual e transliteração precisam ser verificadas.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-012",
+      "official_name": "The I book of Dominos",
+      "pt_br_candidate": "Livro da Aliança I",
+      "problem": "A nomenclatura da fonte institucional deve ser comparada com a literatura acadêmica.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-013",
+      "official_name": "The II book of Dominos",
+      "pt_br_candidate": "Livro da Aliança II",
+      "problem": "A nomenclatura da fonte institucional deve ser comparada com a literatura acadêmica.",
+      "confidence": "MEDIUM",
+      "status": "RESEARCH_REQUIRED"
+    },
+    {
+      "id": "RM-014",
+      "official_name": "The book of Clement",
+      "pt_br_candidate": "Clemente Etíope",
+      "problem": "Não deve ser confundido automaticamente com 1 Clemente ou 2 Clemente.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    },
+    {
+      "id": "RM-015",
+      "official_name": "Didascalia",
+      "pt_br_candidate": "Didascalia Etíope",
+      "problem": "A versão etíope precisa ser distinguida de outras recensões da Didascalia.",
+      "confidence": "HIGH",
+      "status": "CORROBORATE"
+    }
+  ]
+}
