@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ethiopian Bible Book",
+  "type": "object",
+  "required": [
+    "book_id",
+    "name_pt_br",
+    "canonical_order",
+    "status"
+  ],
+  "properties": {
+    "book_id": {
+      "type": "string"
+    },
+    "name_pt_br": {
+      "type": "string"
+    },
+    "name_traditional": {
+      "type": "string"
+    },
+    "name_geez": {
+      "type": "string"
+    },
+    "canonical_order": {
+      "type": "integer"
+    },
+    "chronological_order": {
+      "type": ["integer", "null"]
+    },
+    "status": {
+      "enum": [
+        "UNVERIFIED",
+        "VERIFIED",
+        "VERIFIED_WITH_VARIANTS",
+        "DISPUTED"
+      ]
+    },
+    "sources": {
+      "type": "array"
+    }
+  }
+}

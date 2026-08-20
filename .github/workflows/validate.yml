@@ -1,0 +1,27 @@
+name: Validate Project
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  structure:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate required structure
+        run: |
+          test -f README.md
+          test -f SPEC.md
+          test -f docs/ARCHITECTURE.md
+          test -f docs/CANON.md
+          test -f docs/CHRONOLOGY.md
+          test -f docs/SOURCES.md
+          test -f docs/TRANSLATION.md
+          test -f docs/QA.md
+          test -f data/books/schema.json
+
+          echo "Structure validation passed."
