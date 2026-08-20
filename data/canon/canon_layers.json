@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Camadas Canônicas da Tradição Tewahedo",
+  "principle": "Não confundir a contagem tradicional de 81 livros com uma lista moderna universalmente padronizada.",
+  "layers": [
+    {
+      "id": "CORE_81",
+      "name_pt_br": "Tradição dos 81 livros",
+      "status": "PRIMARY_RESEARCH_TARGET",
+      "description": "Corpus tradicionalmente referido como os 81 livros da Escritura Tewahedo."
+    },
+    {
+      "id": "BROADER_CANON",
+      "name_pt_br": "Cânon amplo / Ordem da Igreja",
+      "status": "SEPARATE_LAYER",
+      "description": "Textos de ordem eclesiástica tradicionalmente associados ao chamado cânon amplo."
+    },
+    {
+      "id": "TRADITIONAL",
+      "name_pt_br": "Textos tradicionais relacionados",
+      "status": "RESEARCH",
+      "description": "Obras relevantes para a tradição bíblica etíope cuja posição canônica precisa ser explicitamente documentada."
+    },
+    {
+      "id": "DISPUTED",
+      "name_pt_br": "Posição disputada",
+      "status": "RESEARCH",
+      "description": "Obras cuja posição ou identidade não pode ser apresentada sem ressalvas."
+    }
+  ],
+  "broader_canon": {
+    "sinodos": [
+      "Sirate Tsion",
+      "Tizaz",
+      "Gitsew",
+      "Abtilis"
+    ],
+    "books_of_covenant": [
+      "Book of Covenant I",
+      "Book of Covenant II"
+    ],
+    "clement": [
+      "Ethiopic Clement"
+    ],
+    "didascalia": [
+      "Ethiopic Didascalia"
+    ]
+  }
+}
