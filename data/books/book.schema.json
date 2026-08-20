@@ -1,0 +1,154 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://luandev93.github.io/biblia-etiope-tewahedo-ptbr/book.schema.json",
+  "title": "Ethiopian Tewahedo Bible Book",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "book_id",
+    "official_name",
+    "pt_br_name",
+    "canonical_layer",
+    "identity_status",
+    "text_status",
+    "sources"
+  ],
+  "properties": {
+    "book_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,4}-[0-9]{3}$"
+    },
+    "official_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pt_br_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "traditional_names": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "geez_name": {
+      "type": ["string", "null"]
+    },
+    "transliteration": {
+      "type": ["string", "null"]
+    },
+    "identity": {
+      "type": ["string", "null"]
+    },
+    "identity_status": {
+      "enum": [
+        "UNVERIFIED",
+        "PROVISIONAL",
+        "CORROBORATED",
+        "VERIFIED",
+        "DISPUTED",
+        "UNRESOLVED"
+      ]
+    },
+    "canonical_layer": {
+      "enum": [
+        "CORE_81",
+        "BROADER_CANON",
+        "TRADITIONAL",
+        "UNCERTAIN"
+      ]
+    },
+    "canonical_order": {
+      "type": ["integer", "null"],
+      "minimum": 1
+    },
+    "chronological_order": {
+      "type": ["integer", "null"],
+      "minimum": 1
+    },
+    "composition_date": {
+      "type": ["string", "null"]
+    },
+    "composition_date_status": {
+      "enum": [
+        "KNOWN",
+        "ESTIMATED",
+        "DISPUTED",
+        "UNKNOWN"
+      ]
+    },
+    "historical_period": {
+      "type": ["string", "null"]
+    },
+    "traditional_authorship": {
+      "type": ["string", "null"]
+    },
+    "academic_authorship": {
+      "type": ["string", "null"]
+    },
+    "original_language": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "textual_tradition": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "manuscripts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "editions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "translation_status": {
+      "enum": [
+        "NOT_STARTED",
+        "DRAFT",
+        "REVIEW",
+        "VERIFIED",
+        "PUBLISHED"
+      ]
+    },
+    "text_status": {
+      "enum": [
+        "NOT_ACQUIRED",
+        "ACQUIRED",
+        "PARTIAL",
+        "COMPLETE",
+        "VERIFIED"
+      ]
+    },
+    "license_status": {
+      "enum": [
+        "UNKNOWN",
+        "RESEARCH_REQUIRED",
+        "CLEARED",
+        "PUBLIC_DOMAIN",
+        "PERMISSION_REQUIRED"
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
