@@ -273,6 +273,96 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "A designação institucional 'The Book of Josephas the Son of Bengorion' é relacionada à tradição de Joseph ben Gorion/Josippon/Sefer Yosippon, incluindo a tradição etíope associada a Zena Ayhud. Não deve ser identificada simplesmente com Flavius Josephus por semelhança nominal.",
       "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-001",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Genesis",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Primeiro livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-002",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Exodus",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Segundo livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-003",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Leviticus",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Terceiro livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-004",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Numbers",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Quarto livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-005",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Deuteronomy",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Quinto livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
+      "verification_date": "2026-08-21"
     }
   ]
 }
