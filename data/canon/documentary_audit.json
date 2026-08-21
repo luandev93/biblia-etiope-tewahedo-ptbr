@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Auditoria Documental das 81 Entradas do Cânon",
+  "purpose": "Registrar evidências, identidades textuais, fontes e graus de verificação das entradas do inventário canônico.",
+  "rule": "Nenhuma equivalência textual deve ser aceita apenas por semelhança nominal.",
+  "entries": [
+    {
+      "canonical_id": "NT-028",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ser'ata Seyon",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Parte tradicional de Sinodos. A literatura registra Ser'ata Seyon como uma unidade própria.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-029",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Te'ezaz",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Parte tradicional de Sinodos. Não deve ser equiparada automaticamente a uma obra de outra tradição.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-030",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Gessew",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Parte tradicional de Sinodos. A forma Geez/transliteração definitiva permanece sujeita a validação posterior.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-031",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Abtelis",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Parte tradicional de Sinodos. A forma Geez/transliteração definitiva permanece sujeita a validação posterior.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-032",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Book of Covenant I / Mäshafä Kidan I",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Primeira unidade do Book of Covenant. A equivalência textual detalhada será investigada separadamente.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-033",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Book of Covenant II / Mäshafä Kidan II",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Segunda unidade do Book of Covenant. A equivalência textual detalhada será investigada separadamente.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-034",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ethiopic Clement / Qälëmentos",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A obra Clemente etíope é distinta de 1 Clemente e 2 Clemente e não deve ser confundida automaticamente com essas obras.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "NT-035",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ethiopian Didascalia / Didesqelya",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Didascalia etíope deve ser distinguida de outras recensões da Didascalia.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-016",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "1 Esdras + Ezra Apocalypse (Ezra Sutu'el)",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Cowley identifica Ezra Sutu'el como Ezra Apocalypse. A entrada institucional agrupa duas designações que não devem ser transformadas automaticamente em dois livros independentes.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-020",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "1 Meqabyan",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Meqabyan etíope não deve ser identificado automaticamente com 1 Macabeus da tradição grega.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-021",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "2 Meqabyan + 3 Meqabyan",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A tradição registra três Meqabyan, enquanto determinadas listas os contam como duas unidades, agrupando o segundo e o terceiro.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-025",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Tegsats / Reproof",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Tegsats/Reproof é uma divisão etíope associada à porção final de Proverbs. A extensão varia entre testemunhos e organizações textuais; portanto, Proverbs 25-31 não deve ser tratado como extensão universal. A forma institucional 'Tegsats' deve ser preservada.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-026",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Metsihafe Tibeb / Books of Wisdom",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A designação institucional Metsihafe Tibeb é documentada como 'the books of wisdom' e possui testemunho catalográfico em Ge'ez. A associação com Wisdom of Solomon é corroborada, mas não deve ser elevada a LEVEL 3 sem documentação crítica/textual adicional.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-045",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Joshua son of Sirac / Sirach / Ben Sira / Ecclesiasticus",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A designação institucional 'Book of Joshua the son of Sirac' é identificada por fontes independentes com Sirach, Ben Sira e Ecclesiasticus. O nome institucional deve ser preservado e não substituído destrutivamente por uma normalização posterior.",
+      "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-046",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Joseph ben Gorion / Josippon / Sefer Yosippon",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A designação institucional 'The Book of Josephas the Son of Bengorion' é relacionada à tradição de Joseph ben Gorion/Josippon/Sefer Yosippon, incluindo a tradição etíope associada a Zena Ayhud. Não deve ser identificada simplesmente com Flavius Josephus por semelhança nominal.",
+      "verification_date": "2026-08-21"
+    }
+  ]
+}
