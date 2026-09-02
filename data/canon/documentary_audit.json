@@ -551,6 +551,114 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "A entrada institucional agrupa Ezra e Nehemiah como uma única unidade de inventário, distinta da entrada OT-016 ('Ezra (2nd) and Ezra Sutuel', já auditada), que trata de material diferente (1 Esdras + Ezra Apocalypse). textual_identity.json registra esta entrada como MEDIUM_CONFIDENCE, refletindo o cuidado necessário para não confundir o material de OT-015 com o de OT-016 apenas pela recorrência do nome 'Ezra'. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope.",
       "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-017",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Tobit",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro deuterocanônico do inventário oficial da EOTC, sem disputa de identidade nominal entre as fontes consultadas. Ressalva textual-crítica: Tobit possui múltiplas formas textuais gregas conhecidas na literatura (recensões curta e longa, além de testemunhos latinos e fragmentos aramaicos/hebraicos de Qumran); qual forma serviu de base à tradução etíope não foi verificado nesta rodada e permanece TO_BE_VERIFIED. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-018",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Judith",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro deuterocanônico do inventário oficial da EOTC, sem disputa de identidade nominal entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-019",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Esther (forma grega/LXX, incluindo as Adições a Ester)",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A tradição etíope do Antigo Testamento deriva da Septuaginta (LXX). É conhecimento acadêmico consolidado que Ester, nas tradições que seguem a LXX (grega, latina/Vulgata, copta, etíope), inclui as chamadas 'Adições a Ester' (seis passagens, ausentes do Texto Massorético hebraico). Portanto, a entrada 'Esther' deste inventário não deve ser presumida equivalente ao Ester hebraico/protestante sem as adições; a forma textual precisa (extensão exata das adições na versão etíope) permanece TO_BE_VERIFIED nesta rodada — não foi possível confirmar diretamente contra uma fonte primária nesta sessão. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-022",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Job",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro do inventário oficial da EOTC, sem disputa de identidade nominal. Ressalva textual-crítica: a forma grega (LXX) de Jó é conhecida por ser sensivelmente mais curta que o Texto Massorético e por conter um epílogo adicional (identificação de Jó com Jobabe, com referência a 'o livro siríaco'), ausente do texto hebraico. Dado que a tradição etíope do AT deriva da LXX, é plausível que a forma etíope reflita essas características, mas isso não foi verificado diretamente contra uma fonte primária nesta rodada e permanece TO_BE_VERIFIED. Não deve ser confundido com o pseudepígrafo 'Testamento de Jó', obra distinta não incluída nesta entrada. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-023",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Psalms (151 salmos, numeração/forma da tradição grega)",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "É conhecimento acadêmico consolidado que o Saltério etíope segue a família textual grega (LXX) e inclui o Salmo 151 ao final da sequência de 150 salmos, como nas tradições Ortodoxas Oriental e Etíope. A entrada 'Psalms' deste inventário não deve ser presumida equivalente a um Saltério de 150 salmos sem verificação. Observação editorial: o volume litúrgico do Saltério etíope tradicionalmente reúne, além dos salmos, outros textos (cânticos dos profetas, Cântico dos Cânticos, Wǝddase Maryam, Anqäṣä Bǝrhan); esses textos adicionais não devem ser confundidos com o conteúdo desta entrada canônica (OT-023), que se refere estritamente ao livro de Salmos. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-024",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Proverbs",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A identidade nominal 'Proverbs' não é disputada como título, mas sua extensão exata na tradição etíope tem fronteira direta com a entrada OT-025 (Tegsats/Reproof, já auditada). Há literatura secundária que associa uma divisão tradicional 'Mesale' (~Provérbios 1-24) e 'Tegsats' (~Provérbios 25-31), mas essa correspondência não pôde ser confirmada diretamente contra uma fonte primária nesta rodada (acesso de pesquisa bloqueado para as páginas relevantes) e é tratada como não verificada. Mantendo a cautela já registrada na auditoria de OT-025, esta entrada NÃO fixa Provérbios 1-24 como extensão universal de OT-024; a fronteira entre OT-024 e OT-025 permanece um ponto em aberto que exige verificação documental dedicada antes de qualquer trabalho de corpus em qualquer uma das duas entradas. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
     }
   ]
 }
