@@ -113,3 +113,112 @@ ACADEMIC
 
 Função:
 Estudo das diferentes formas de organização do corpus bíblico etíope.
+
+---
+
+## SRC-0006
+
+Autor:
+R. H. Charles
+
+Título:
+The Ethiopic Version of the Hebrew Book of Jubilees
+
+Ano:
+1895
+
+Série:
+Anecdota Oxoniensia, Semitic Series, part VIII
+
+Editora:
+Oxford: Clarendon Press
+
+Tipo:
+PRIMARY / CRITICAL_EDITION
+
+Função:
+Edição crítica do texto etíope de Jubileus a partir de quatro manuscritos, cotejada com fragmentos hebraicos, siríacos, gregos e latinos.
+
+Observação:
+Obra de 1895; domínio público quanto ao texto e aparato desta edição específica.
+
+---
+
+## SRC-0007
+
+Autor:
+R. H. Charles
+
+Título:
+The Ethiopic Version of the Book of Enoch
+
+Ano:
+1906
+
+Editora:
+Oxford: Clarendon Press
+
+Tipo:
+PRIMARY / CRITICAL_EDITION
+
+Função:
+Edição crítica do texto etíope de 1 Enoque, elaborada a partir de vinte e seis manuscritos etíopes conhecidos à época.
+
+Observação:
+Obra de 1906; domínio público quanto ao texto e aparato desta edição específica.
+
+---
+
+## SRC-0008
+
+Autor:
+Michael A. Knibb (em consulta com Edward Ullendorff)
+
+Título:
+The Ethiopic Book of Enoch: A New Edition in the Light of the Aramaic Dead Sea Fragments
+
+Ano:
+1978
+
+Editora:
+Oxford: Clarendon Press
+
+Volumes:
+2 (vol. 1: texto do MS Rylands Ethiopic 23 com aparato crítico grego/etíope; vol. 2: introdução, tradução inglesa e notas com a evidência aramaica de Qumran)
+
+Tipo:
+ACADEMIC / CRITICAL_EDITION
+
+Função:
+Edição crítica acadêmica de referência do texto etíope de 1 Enoque.
+
+Observação:
+Edição moderna sob direitos autorais. Disponibilidade documental não implica licença de uso no corpus.
+
+---
+
+## SRC-0009
+
+Autor:
+James C. VanderKam
+
+Título:
+The Book of Jubilees: A Critical Text
+
+Ano:
+1989
+
+Série:
+Corpus Scriptorum Christianorum Orientalium — Scriptores Aethiopici, tomos 87 (texto) e 88 (tradução)
+
+Editora:
+Leuven: Peeters
+
+Tipo:
+ACADEMIC / CRITICAL_EDITION
+
+Função:
+Edição crítica padrão do texto etíope de Jubileus, com tradução inglesa e notas de variantes hebraicas, siríacas, gregas e latinas.
+
+Observação:
+Edição moderna sob direitos autorais. Disponibilidade documental não implica licença de uso no corpus.

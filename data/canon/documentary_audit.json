@@ -453,6 +453,104 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "A entrada institucional agrupa I e II Kings como uma única unidade de inventário. O agrupamento é reconhecido pelas fontes consultadas e não deve ser desfeito sem evidência documental adicional sobre a divisão etíope (Ge'ez). Isso não constitui verificação textual definitiva da forma etíope.",
       "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-011",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "I Chronicles",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro histórico do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-012",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "II Chronicles",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro histórico do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-013",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Jubilees",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004",
+        "SRC-0006",
+        "SRC-0009"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004",
+        "critical_edition_1895": "SRC-0006",
+        "critical_edition_1989": "SRC-0009"
+      },
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "MIXED_TO_BE_VERIFIED",
+      "note": "Jubileus sobrevive de forma completa apenas na versão etíope (Ge'ez); os fragmentos hebraicos, gregos, siríacos e latinos são parciais. Existem duas edições críticas do texto etíope: Charles 1895 (SRC-0006, quatro manuscritos, obra em domínio público) e VanderKam 1989 (SRC-0009, edição acadêmica padrão atual, sob direitos autorais). 'textual_source_available' reflete a existência confirmada de edição crítica; 'rights_status' permanece misto — a edição de 1895 é de domínio público quanto ao texto e aparato publicados, mas a edição de 1989 (moderna) tem direitos não verificados. Nenhuma licença deve ser presumida para uso no corpus PT-BR sem verificação específica. Este caso concentra evidência textual mais forte que a média das entradas já auditadas, mas não foi elevado a LEVEL 3 nesta rodada — a elevação exige revisão textual-crítica dedicada, não apenas o registro da existência de edições.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-014",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "1 Enoch",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004",
+        "SRC-0007",
+        "SRC-0008"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004",
+        "critical_edition_1906": "SRC-0007",
+        "critical_edition_1978": "SRC-0008"
+      },
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "MIXED_TO_BE_VERIFIED",
+      "note": "1 Enoque sobrevive de forma completa apenas na versão etíope (Ge'ez); apenas fragmentos aramaicos (Qumran) e trechos gregos são conhecidos. Existem duas edições críticas de referência: Charles 1906 (SRC-0007, vinte e seis manuscritos, obra em domínio público) e Knibb 1978 (SRC-0008, edição acadêmica padrão atual, baseada no MS Rylands Ethiopic 23, sob direitos autorais). 'textual_source_available' reflete a existência confirmada de edição crítica; 'rights_status' permanece misto pelas mesmas razões descritas para OT-013. Nenhuma licença deve ser presumida para uso no corpus PT-BR sem verificação específica. Este caso concentra evidência textual mais forte que a média das entradas já auditadas, mas não foi elevado a LEVEL 3 nesta rodada — a elevação exige revisão textual-crítica dedicada, não apenas o registro da existência de edições.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-015",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ezra and Nehemiah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A entrada institucional agrupa Ezra e Nehemiah como uma única unidade de inventário, distinta da entrada OT-016 ('Ezra (2nd) and Ezra Sutuel', já auditada), que trata de material diferente (1 Esdras + Ezra Apocalypse). textual_identity.json registra esta entrada como MEDIUM_CONFIDENCE, refletindo o cuidado necessário para não confundir o material de OT-015 com o de OT-016 apenas pela recorrência do nome 'Ezra'. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
     }
   ]
 }
