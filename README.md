@@ -95,3 +95,7 @@ A auditoria documental de identidade (Camadas A e B, mais corroboração inicial
 3. Somente depois disso, iniciar a fase de CORPUS/TRADUÇÃO para as entradas que satisfizerem as três condições da regra de tradução (LEVEL >= 2, fonte disponível, direitos resolvidos).
 
 Nenhuma dessas etapas deve ser executada em lote ou por suposição — cada uma exige verificação documental própria, seguindo o mesmo rigor aplicado até aqui.
+
+### Handoff de continuidade
+
+Para retomar o trabalho em uma nova sessão, ler primeiro `docs/research/HANDOFF.md` — contém o estado detalhado, estimativa de escopo restante e limitações técnicas encontradas nesta rodada (bloqueio de acesso de rede a alguns domínios de pesquisa).
