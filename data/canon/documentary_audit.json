@@ -821,6 +821,168 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
       "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-036",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Joel",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-037",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Obadiah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-038",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Jonah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-039",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Nahum",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-040",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Habakkuk",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-041",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Zephaniah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-042",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Haggai",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-043",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Zechariah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-044",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Malachi",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez). Com esta entrada, todas as pendências então registradas em textual_identity.json (54/81) foram auditadas em documentary_audit.json; permanece pendente apenas o bloco NT-001 a NT-027, ainda fora de textual_identity.json.",
+      "verification_date": "2026-09-02"
     }
   ]
 }
