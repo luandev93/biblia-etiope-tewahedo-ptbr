@@ -659,6 +659,168 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "A identidade nominal 'Proverbs' não é disputada como título, mas sua extensão exata na tradição etíope tem fronteira direta com a entrada OT-025 (Tegsats/Reproof, já auditada). Há literatura secundária que associa uma divisão tradicional 'Mesale' (~Provérbios 1-24) e 'Tegsats' (~Provérbios 25-31), mas essa correspondência não pôde ser confirmada diretamente contra uma fonte primária nesta rodada (acesso de pesquisa bloqueado para as páginas relevantes) e é tratada como não verificada. Mantendo a cautela já registrada na auditoria de OT-025, esta entrada NÃO fixa Provérbios 1-24 como extensão universal de OT-024; a fronteira entre OT-024 e OT-025 permanece um ponto em aberto que exige verificação documental dedicada antes de qualquer trabalho de corpus em qualquer uma das duas entradas. Isso não constitui verificação textual definitiva da forma etíope.",
       "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-027",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ecclesiastes",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-028",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "The Song of Songs",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-029",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Isaiah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-030",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Jeremiah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "RESSALVA IMPORTANTE: nenhuma entrada separada para 'Lamentations', 'Baruch' ou 'Letter of Jeremiah' existe em canon_inventory.json — 'Jeremiah' é a única posição (30) no inventário oficial que cobre esse território. A literatura acadêmica sobre o cânon etíope descreve um agrupamento tradicional conhecido como 'Rest of Jeremiah' (Jeremias 1-52 seguido por Lamentações/Säqoqawä Eremyas, Baruque e a Carta de Jeremias/Paralipomena de Jeremias, também chamada 4 Baruque), tratado como unidade dentro do cânon 'estreito' de 46 livros do AT. Portanto, esta entrada NÃO deve ser presumida como o livro protocanônico de Jeremias isolado; é plausível que 'Jeremiah' no inventário institucional corresponda a esse agrupamento mais amplo, mas essa correspondência específica não foi confirmada diretamente contra o texto da fonte primária (SRC-0001) nesta rodada e permanece TO_BE_VERIFIED. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-031",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ezekiel",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-032",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Daniel (forma grega/LXX, incluindo as Adições a Daniel)",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "É conhecimento acadêmico consolidado que o cânon etíope inclui, como parte integrante de Daniel, as chamadas 'Adições a Daniel' (Susana; Bel e o Dragão; Oração de Azarias e Cântico dos Três Jovens), ausentes do texto hebraico/aramaico massorético e presentes apenas na tradição grega (LXX/Teodocião). Portanto, esta entrada NÃO deve ser presumida equivalente ao Daniel hebraico/protestante sem essas adições. A forma textual etíope precisa (por exemplo, se todas as três adições estão presentes de modo uniforme, dada a variação observada entre comentários/manuscritos Ge'ez conhecidos na literatura) não foi verificada diretamente nesta rodada e permanece TO_BE_VERIFIED. Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-033",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Hosea",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-034",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Amos",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-035",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Micah",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro profético menor do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
     }
   ]
 }
