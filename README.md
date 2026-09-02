@@ -43,24 +43,26 @@ BUILD
 
 ## Estado atual — auditoria documental
 
-Atualização: 2026-08-21
+Atualização: 2026-09-02
 
 ### Marco concluído
 
-A primeira expansão da auditoria documental foi consolidada para as entradas OT-001 a OT-005.
+Nova expansão da auditoria documental foi consolidada para as entradas OT-006 a OT-010.
 
-- OT-001 — Genesis
-- OT-002 — Exodus
-- OT-003 — Leviticus
-- OT-004 — Numbers
-- OT-005 — Deuteronomy
+- OT-006 — Joshua
+- OT-007 — Judges
+- OT-008 — Ruth
+- OT-009 — I and II Samuel
+- OT-010 — I and II Kings
 
 As cinco entradas foram classificadas como:
 
 - LEVEL 2
 - ACADEMICALLY_CORROBORATED
 
-A classificação registra corroboração institucional e acadêmica, sem equivalência textual definitiva com outras tradições textuais.
+São livros históricos padrão do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas (SRC-0001, SRC-0004). OT-009 e OT-010 preservam o agrupamento institucional de I/II Samuel e I/II Kings como unidades únicas de inventário, seguindo a mesma prática já adotada para outras entradas do inventário oficial.
+
+A classificação registra corroboração institucional e acadêmica, sem equivalência textual definitiva com a forma etíope (Ge'ez).
 
 Os campos `textual_source_available` e `rights_status` permanecem `TO_BE_VERIFIED`.
 
@@ -68,18 +70,19 @@ Os campos `textual_source_available` e `rights_status` permanecem `TO_BE_VERIFIE
 
 - Inventário canônico total: 81 entradas
 - `textual_identity.json`: 54 entradas
-- `documentary_audit.json`: 20 entradas
-- Entradas auditadas: 20
-- Entradas ainda pendentes em `textual_identity.json`: 34
+- `documentary_audit.json`: 25 entradas
+- Entradas auditadas: 25
+- Entradas ainda pendentes em `textual_identity.json`: 29
 - Entradas NT-001 a NT-027 ainda fora da camada atual de `textual_identity.json`
 
 ### Entradas já auditadas
 
-NT-028 a NT-035; OT-001 a OT-005; OT-016; OT-020; OT-021; OT-025; OT-026; OT-045; OT-046.
+NT-028 a NT-035; OT-001 a OT-010; OT-016; OT-020; OT-021; OT-025; OT-026; OT-045; OT-046.
 
 ### Próximo passo
 
-Continuar a auditoria documental somente das entradas ainda pendentes, sem repetir as 20 entradas já consolidadas.
+Continuar a auditoria documental somente das entradas ainda pendentes, sem repetir as 25 entradas já consolidadas.
+
+Lote natural seguinte: OT-011 a OT-015 (1 Chronicles, 2 Chronicles, Jubilees, 1 Enoch, Ezra-Nehemiah), a confirmar contra o estado real do Git antes de iniciar. Jubilees e 1 Enoch exigem tratamento mais cuidadoso que os livros históricos deste lote, por possuírem perfil documental e canônico distinto dos livros protocanônicos.
 
 A próxima seleção deverá ser feita a partir do estado real do Git e dos arquivos do projeto.
-

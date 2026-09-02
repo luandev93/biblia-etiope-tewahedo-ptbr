@@ -363,6 +363,96 @@
       "rights_status": "TO_BE_VERIFIED",
       "note": "Quinto livro do Pentateuco no inventário oficial da EOTC. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva.",
       "verification_date": "2026-08-21"
+    },
+    {
+      "canonical_id": "OT-006",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Joshua",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro histórico do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-007",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Judges",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro histórico do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-008",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "Ruth",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "Livro histórico do inventário oficial da EOTC, sem disputa de identidade nominal ou textual entre as fontes consultadas. A identidade canônica é corroborada institucional e academicamente; isso não constitui verificação textual definitiva da forma etíope (Ge'ez).",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-009",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "I and II Samuel",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A entrada institucional agrupa I e II Samuel como uma única unidade de inventário. O agrupamento é reconhecido pelas fontes consultadas e não deve ser desfeito sem evidência documental adicional sobre a divisão etíope (Ge'ez). Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
+    },
+    {
+      "canonical_id": "OT-010",
+      "verification_level": "LEVEL 2",
+      "verification_status": "ACADEMICALLY_CORROBORATED",
+      "textual_identity": "I and II Kings",
+      "sources": [
+        "SRC-0001",
+        "SRC-0004"
+      ],
+      "evidence": {
+        "primary_institutional": "SRC-0001",
+        "academic_independent": "SRC-0004"
+      },
+      "textual_source_available": "TO_BE_VERIFIED",
+      "rights_status": "TO_BE_VERIFIED",
+      "note": "A entrada institucional agrupa I e II Kings como uma única unidade de inventário. O agrupamento é reconhecido pelas fontes consultadas e não deve ser desfeito sem evidência documental adicional sobre a divisão etíope (Ge'ez). Isso não constitui verificação textual definitiva da forma etíope.",
+      "verification_date": "2026-09-02"
     }
   ]
 }
