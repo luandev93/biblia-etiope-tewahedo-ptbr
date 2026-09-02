@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "batch_id": "SOURCE-RIGHTS-001",
+  "date": "2026-09-02",
+  "purpose": "Registrar, por lote, a disponibilidade de fonte textual e o estado de direitos sem alterar a auditoria documental até que a evidência esteja consolidada no arquivo canônico.",
+  "entries": [
+    {
+      "canonical_id": "OT-001",
+      "textual_identity": "Genesis",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Veteris Testamenti Aethiopici tomus primus, sive Octateuchus Aethiopicus (1853), edição crítica; ULB Bonn digital copy, Public Domain Mark 1.0.",
+      "coverage": "Genesis",
+      "evidence": "A edição crítica de 1853 contém o texto etíope do Octateuco; o volume cobre o Pentateuco, Joshua, Judges e Ruth. A cópia digital da ULB Bonn é marcada como Public Domain Mark 1.0.",
+      "limitations": "Disponibilidade da edição crítica e direitos da fonte histórica estão confirmados; isto não é LEVEL 3 nem prova de que esta edição representa uniformemente todos os manuscritos etíopes.",
+      "sources": ["SRC-0001", "SRC-0004", "DILLMANN-1853-ULB-BONN"]
+    },
+    {
+      "canonical_id": "OT-002",
+      "textual_identity": "Exodus",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Veteris Testamenti Aethiopici tomus primus, sive Octateuchus Aethiopicus (1853), edição crítica; ULB Bonn digital copy, Public Domain Mark 1.0.",
+      "coverage": "Exodus",
+      "evidence": "A edição crítica de 1853 contém o texto etíope do Octateuco; o volume cobre o Pentateuco, Joshua, Judges e Ruth. A cópia digital da ULB Bonn é marcada como Public Domain Mark 1.0.",
+      "limitations": "Disponibilidade da edição crítica e direitos da fonte histórica estão confirmados; isto não é LEVEL 3 nem prova de que esta edição representa uniformemente todos os manuscritos etíopes.",
+      "sources": ["SRC-0001", "SRC-0004", "DILLMANN-1853-ULB-BONN"]
+    },
+    {
+      "canonical_id": "OT-003",
+      "textual_identity": "Leviticus",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Veteris Testamenti Aethiopici tomus primus, sive Octateuchus Aethiopicus (1853), edição crítica; ULB Bonn digital copy, Public Domain Mark 1.0.",
+      "coverage": "Leviticus",
+      "evidence": "A edição crítica de 1853 contém o texto etíope do Octateuco; o volume cobre o Pentateuco, Joshua, Judges e Ruth. A cópia digital da ULB Bonn é marcada como Public Domain Mark 1.0.",
+      "limitations": "Disponibilidade da edição crítica e direitos da fonte histórica estão confirmados; isto não é LEVEL 3 nem prova de que esta edição representa uniformemente todos os manuscritos etíopes.",
+      "sources": ["SRC-0001", "SRC-0004", "DILLMANN-1853-ULB-BONN"]
+    },
+    {
+      "canonical_id": "OT-004",
+      "textual_identity": "Numbers",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Veteris Testamenti Aethiopici tomus primus, sive Octateuchus Aethiopicus (1853), edição crítica; ULB Bonn digital copy, Public Domain Mark 1.0.",
+      "coverage": "Numbers",
+      "evidence": "A edição crítica de 1853 contém o texto etíope do Octateuco; o volume cobre o Pentateuco, Joshua, Judges e Ruth. A cópia digital da ULB Bonn é marcada como Public Domain Mark 1.0.",
+      "limitations": "Disponibilidade da edição crítica e direitos da fonte histórica estão confirmados; isto não é LEVEL 3 nem prova de que esta edição representa uniformemente todos os manuscritos etíopes.",
+      "sources": ["SRC-0001", "SRC-0004", "DILLMANN-1853-ULB-BONN"]
+    },
+    {
+      "canonical_id": "OT-005",
+      "textual_identity": "Deuteronomy",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Veteris Testamenti Aethiopici tomus primus, sive Octateuchus Aethiopicus (1853), edição crítica; ULB Bonn digital copy, Public Domain Mark 1.0.",
+      "coverage": "Deuteronomy",
+      "evidence": "A edição crítica de 1853 contém o texto etíope do Octateuco; o volume cobre o Pentateuco, Joshua, Judges e Ruth. A cópia digital da ULB Bonn é marcada como Public Domain Mark 1.0.",
+      "limitations": "Disponibilidade da edição crítica e direitos da fonte histórica estão confirmados; isto não é LEVEL 3 nem prova de que esta edição representa uniformemente todos os manuscritos etíopes.",
+      "sources": ["SRC-0001", "SRC-0004", "DILLMANN-1853-ULB-BONN"]
+    }
+  ],
+  "batch_conclusion": "OT-001 a OT-005 podem sair de TO_BE_VERIFIED quanto à existência de fonte textual histórica e aos direitos da edição digital consultada. O status PUBLIC_DOMAIN_SOURCE_CONFIRMED refere-se especificamente à edição Dillmann/ULB Bonn identificada, não constitui licença genérica para qualquer edição moderna ou tradução. Nenhuma entrada é elevada a LEVEL 3.",
+  "research_references": {
+    "DILLMANN-1853-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/68563"
+  }
+}
