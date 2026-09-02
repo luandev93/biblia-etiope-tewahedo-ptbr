@@ -45,49 +45,53 @@ BUILD
 
 Atualização: 2026-09-02
 
-### Marco concluído
+### Marco concluído — auditoria documental completa (81/81)
 
-Nova expansão da auditoria documental foi consolidada para as entradas OT-036 a OT-044 — os últimos nove profetas menores.
+O bloco NT-001 a NT-027 foi investigado antes de qualquer alteração: `canon_inventory.json` já continha essas 27 entradas (Matthew a Revelation — o conjunto padrão de 27 livros do Novo Testamento, universalmente reconhecido, incluindo pela tradição etíope), simplesmente ainda não processadas em `textual_identity.json`/`documentary_audit.json`. Não se tratava de uma decisão arquitetural deliberada de exclusão, mas de trabalho ainda não realizado — confirmado antes de agir, conforme exigia o handoff original.
 
-- OT-036 — Joel
-- OT-037 — Obadiah
-- OT-038 — Jonah
-- OT-039 — Nahum
-- OT-040 — Habakkuk
-- OT-041 — Zephaniah
-- OT-042 — Haggai
-- OT-043 — Zechariah
-- OT-044 — Malachi
+Como esse conjunto de 27 livros não apresenta disputas de identidade nominal ou textual em nenhuma tradição cristã (diferentemente dos livros do "cânon amplo" já auditados, como Sinodos, Livros da Aliança, Clemente e Didascalia etíopes), as 27 entradas foram:
 
-As nove entradas foram classificadas como:
+1. Registradas em `textual_identity.json` (status `HIGH_CONFIDENCE`);
+2. Auditadas em `documentary_audit.json` (LEVEL 2 / `ACADEMICALLY_CORROBORATED`, fontes SRC-0001 e SRC-0004).
 
-- LEVEL 2
-- ACADEMICALLY_CORROBORATED
+**Com isso, `textual_identity.json` e `documentary_audit.json` chegam a 81/81 entradas — a totalidade do núcleo canônico (46 OT + 35 NT) possui registro de identidade textual e auditoria documental.**
 
-Todas seguem o padrão simples já estabelecido, sem disputa de identidade nominal ou textual entre as fontes consultadas (SRC-0001, SRC-0004).
+### O que "concluído" significa aqui — e o que NÃO significa
 
-**MARCO IMPORTANTE**: com este lote, `documentary_audit.json` chega a 54 entradas — o mesmo total atualmente presente em `textual_identity.json`. Ou seja, toda a camada de identidade textual hoje registrada no projeto já foi auditada documentalmente. Não restam mais entradas OT ou NT pendentes dentro do conjunto que já possui `textual_identity.json`.
+Esta conclusão refere-se estritamente à **Camada B (identidade) e à corroboração documental inicial (LEVEL 2)** de todas as 81 entradas do núcleo canônico, conforme a arquitetura definida no princípio do projeto:
 
-O que resta é o bloco **NT-001 a NT-027**, que está fora de `textual_identity.json` — isso não significa 27 registros a criar automaticamente. Antes de qualquer ação sobre esse bloco, é necessário entender a arquitetura de incorporação já usada pelo projeto (ver seção 13 do handoff original) e verificar contra o estado real do Git e dos arquivos.
+```
+CANON → 81 ENTRADAS → TEXTUAL IDENTITY → DOCUMENTARY AUDIT → TEXTUAL SOURCE / RIGHTS STATUS → CORPUS READY → PT-BR
+```
+
+Isso **não** significa que o projeto de tradução esteja concluído. Para a esmagadora maioria das 81 entradas:
+
+- `textual_source_available` permanece `TO_BE_VERIFIED` (exceto Jubilees e 1 Enoch, marcadas `AVAILABLE` por terem edições críticas confirmadas);
+- `rights_status` permanece `TO_BE_VERIFIED` (ou `MIXED_TO_BE_VERIFIED` para Jubilees/1 Enoch);
+- Nenhuma entrada atingiu LEVEL 3 (verificação textual-crítica completa contra manuscrito/edição);
+- Nenhum trabalho de corpus ou tradução foi iniciado, pois a regra de tradução do projeto exige `IDENTIDADE >= LEVEL 2` **e** `FONTE TEXTUAL DISPONÍVEL = SIM` **e** `DIREITOS/LICENÇA = RESOLVIDOS` — condições ainda não satisfeitas para o corpus como um todo.
+
+Também permanecem em aberto, registradas nas notas de auditoria correspondentes, questões específicas que exigem pesquisa dedicada antes de qualquer trabalho textual:
+- fronteira entre OT-024 (Proverbs) e OT-025 (Tegsats);
+- extensão exata do agrupamento "Rest of Jeremiah" em OT-030;
+- forma exata das Adições a Ester (OT-019) e a Daniel (OT-032) na versão etíope;
+- qual recensão de Tobit (OT-017) serviu de base à tradução etíope;
+- direitos de uso das edições críticas modernas de Jubilees/1 Enoch (VanderKam 1989, Knibb 1978).
 
 ### Estado da auditoria
 
 - Inventário canônico total: 81 entradas
-- `textual_identity.json`: 54 entradas
-- `documentary_audit.json`: 54 entradas
-- Entradas auditadas: 54
-- Entradas ainda pendentes em `textual_identity.json`: 0
-- Entradas NT-001 a NT-027 ainda fora da camada atual de `textual_identity.json`
-
-### Entradas já auditadas
-
-NT-028 a NT-035; OT-001 a OT-046 (todas as entradas OT atualmente presentes em `textual_identity.json`).
+- `textual_identity.json`: 81 entradas (81/81)
+- `documentary_audit.json`: 81 entradas (81/81)
+- Entradas com `textual_source_available = AVAILABLE`: 2 (OT-013 Jubilees, OT-014 1 Enoch)
+- Entradas com verificação LEVEL 3: 0
 
 ### Próximo passo
 
-O próximo passo NÃO é criar automaticamente 27 registros para NT-001 a NT-027. Antes disso:
+A auditoria documental de identidade (Camadas A e B, mais corroboração inicial LEVEL 2) está completa para as 81 entradas do núcleo canônico. As próximas etapas possíveis, em ordem de dependência, são:
 
-1. Confirmar contra o estado real do Git e dos arquivos do projeto qual é a arquitetura de incorporação pretendida para o bloco NT-001 a NT-027 (por que ficaram de fora de `textual_identity.json` até agora — decisão deliberada, lacuna, ou dependência de outra etapa).
-2. Somente depois dessa confirmação, decidir o próximo lote de trabalho.
+1. **Resolver `textual_source_available` e `rights_status` individualmente** para cada entrada — isso exige pesquisa dedicada por obra (edições críticas, manuscritos digitalizados, domínio público vs. direitos autorais modernos), não pode ser feito em lote genérico como a identidade textual.
+2. **Resolver as questões em aberto** listadas acima (fronteira Proverbs/Tegsats, extensão de Jeremiah, forma das Adições, recensão de Tobit) antes de qualquer trabalho de corpus nessas entradas específicas.
+3. Somente depois disso, iniciar a fase de CORPUS/TRADUÇÃO para as entradas que satisfizerem as três condições da regra de tradução (LEVEL >= 2, fonte disponível, direitos resolvidos).
 
-A próxima seleção deverá ser feita a partir do estado real do Git e dos arquivos do projeto, não por suposição.
+Nenhuma dessas etapas deve ser executada em lote ou por suposição — cada uma exige verificação documental própria, seguindo o mesmo rigor aplicado até aqui.

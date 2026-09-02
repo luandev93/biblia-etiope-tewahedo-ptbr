@@ -493,6 +493,195 @@
         "SRC-0004"
       ],
       "verification_date": "2026-08-21"
+    },
+    {
+      "id": "NT-001",
+      "official_name": "Matthew",
+      "pt_br": "Mateus",
+      "identity": "Gospel of Matthew",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-002",
+      "official_name": "Mark",
+      "pt_br": "Marcos",
+      "identity": "Gospel of Mark",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-003",
+      "official_name": "Luke",
+      "pt_br": "Lucas",
+      "identity": "Gospel of Luke",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-004",
+      "official_name": "John",
+      "pt_br": "João",
+      "identity": "Gospel of John",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-005",
+      "official_name": "The Acts",
+      "pt_br": "Atos dos Apóstolos",
+      "identity": "Acts of the Apostles",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-006",
+      "official_name": "Romans",
+      "pt_br": "Romanos",
+      "identity": "Romans",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-007",
+      "official_name": "I Corinthians",
+      "pt_br": "1 Coríntios",
+      "identity": "1 Corinthians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-008",
+      "official_name": "II Corinthians",
+      "pt_br": "2 Coríntios",
+      "identity": "2 Corinthians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-009",
+      "official_name": "Galatians",
+      "pt_br": "Gálatas",
+      "identity": "Galatians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-010",
+      "official_name": "Ephesians",
+      "pt_br": "Efésios",
+      "identity": "Ephesians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-011",
+      "official_name": "Philippians",
+      "pt_br": "Filipenses",
+      "identity": "Philippians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-012",
+      "official_name": "Colossians",
+      "pt_br": "Colossenses",
+      "identity": "Colossians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-013",
+      "official_name": "I Thessalonians",
+      "pt_br": "1 Tessalonicenses",
+      "identity": "1 Thessalonians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-014",
+      "official_name": "II Thessalonians",
+      "pt_br": "2 Tessalonicenses",
+      "identity": "2 Thessalonians",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-015",
+      "official_name": "I Timothy",
+      "pt_br": "1 Timóteo",
+      "identity": "1 Timothy",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-016",
+      "official_name": "II Timothy",
+      "pt_br": "2 Timóteo",
+      "identity": "2 Timothy",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-017",
+      "official_name": "Titus",
+      "pt_br": "Tito",
+      "identity": "Titus",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-018",
+      "official_name": "Philemon",
+      "pt_br": "Filemom",
+      "identity": "Philemon",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-019",
+      "official_name": "Hebrews",
+      "pt_br": "Hebreus",
+      "identity": "Hebrews",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-020",
+      "official_name": "I Peter",
+      "pt_br": "1 Pedro",
+      "identity": "1 Peter",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-021",
+      "official_name": "II Peter",
+      "pt_br": "2 Pedro",
+      "identity": "2 Peter",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-022",
+      "official_name": "I John",
+      "pt_br": "1 João",
+      "identity": "1 John",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-023",
+      "official_name": "II John",
+      "pt_br": "2 João",
+      "identity": "2 John",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-024",
+      "official_name": "III John",
+      "pt_br": "3 João",
+      "identity": "3 John",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-025",
+      "official_name": "James",
+      "pt_br": "Tiago",
+      "identity": "James",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-026",
+      "official_name": "Jude",
+      "pt_br": "Judas",
+      "identity": "Jude",
+      "status": "HIGH_CONFIDENCE"
+    },
+    {
+      "id": "NT-027",
+      "official_name": "Revelation",
+      "pt_br": "Apocalipse",
+      "identity": "Revelation",
+      "status": "HIGH_CONFIDENCE"
     }
   ]
 }
