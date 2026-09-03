@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "batch_id": "SOURCE-RIGHTS-002",
+  "date": "2026-09-03",
+  "purpose": "Registrar disponibilidade de fonte textual e direitos para OT-006 a OT-010 sem alterar a auditoria documental até consolidação posterior.",
+  "entries": [
+    {
+      "canonical_id": "OT-006",
+      "textual_identity": "Joshua",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Octateuchus Aethiopicus (1853–1855), edição crítica; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A fonte bibliográfica e a descrição do projeto Octateuch confirmam que a edição inclui Joshua como um dos oito livros do Octateuco etíope.",
+      "limitations": "Fonte histórica disponível; não constitui LEVEL 3 nem prova de uniformidade entre manuscritos.",
+      "sources": ["DILLMANN-1853-ULB-BONN", "TAU-OCTATEUCH"]
+    },
+    {
+      "canonical_id": "OT-007",
+      "textual_identity": "Judges",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Octateuchus Aethiopicus (1853–1855), edição crítica; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A fonte bibliográfica e a descrição do projeto Octateuch confirmam que a edição inclui Judges como um dos oito livros do Octateuco etíope.",
+      "limitations": "Fonte histórica disponível; não constitui LEVEL 3 nem prova de uniformidade entre manuscritos.",
+      "sources": ["DILLMANN-1853-ULB-BONN", "TAU-OCTATEUCH"]
+    },
+    {
+      "canonical_id": "OT-008",
+      "textual_identity": "Ruth",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Octateuchus Aethiopicus (1853–1855), edição crítica; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A fonte bibliográfica e a descrição do projeto Octateuch confirmam que a edição inclui Ruth como um dos oito livros do Octateuco etíope.",
+      "limitations": "Fonte histórica disponível; não constitui LEVEL 3 nem prova de uniformidade entre manuscritos.",
+      "sources": ["DILLMANN-1853-ULB-BONN", "TAU-OCTATEUCH"]
+    },
+    {
+      "canonical_id": "OT-009",
+      "textual_identity": "I and II Samuel",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Libri Regum, Paralipomenon, Esdrae, Esther, Fasc. 1: Regum I et II (1861), edição crítica; tradição digital do projeto Samuel & Kings.",
+      "evidence": "A descrição bibliográfica identifica Regum I et II como Samuel I–II na edição crítica de Dillmann; a ULB Bonn registra o tomo correspondente dentro da Biblia veteris Testamenti Aethiopica e marca a edição digital como Public Domain Mark 1.0.",
+      "limitations": "O agrupamento I–II Samuel é mantido conforme a unidade canônica do projeto. Disponibilidade da edição histórica não constitui LEVEL 3.",
+      "sources": ["DILLMANN-REGUM-1861", "TAU-SAMUEL-KINGS", "ULB-BONN-BIBLIA-AETHIOPICA"]
+    },
+    {
+      "canonical_id": "OT-010",
+      "textual_identity": "I and II Kings",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Libri Regum, Paralipomenon, Esdrae, Esther, Fasc. 2: Regum III et IV (1871), edição crítica; tradição digital do projeto Samuel & Kings.",
+      "evidence": "A descrição bibliográfica identifica Regum III et IV como Kings I–II na edição crítica de Dillmann; a ULB Bonn registra o fascículo de 1871 dentro da Biblia veteris Testamenti Aethiopica e marca a edição digital como Public Domain Mark 1.0.",
+      "limitations": "O agrupamento I–II Kings é mantido conforme a unidade canônica do projeto. Disponibilidade da edição histórica não constitui LEVEL 3.",
+      "sources": ["DILLMANN-REGUM-1871", "TAU-SAMUEL-KINGS", "ULB-BONN-BIBLIA-AETHIOPICA"]
+    }
+  ],
+  "batch_conclusion": "OT-006 a OT-010 possuem fonte textual histórica digitalmente acessível e identificada em edições de Dillmann; as cópias digitais institucionais consultadas são indicadas como domínio público. Isso resolve a etapa de disponibilidade/direitos da fonte histórica específica, mas não a licença de edições modernas nem a verificação textual-crítica LEVEL 3.",
+  "research_references": {
+    "DILLMANN-1853-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/68563",
+    "ULB-BONN-BIBLIA-AETHIOPICA": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
+    "TAU-OCTATEUCH": "https://www.tau.ac.il/~hacohen/Octateuch/Information.html",
+    "TAU-SAMUEL-KINGS": "https://www.tau.ac.il/~hacohen/Regum/Information.html"
+  }
+}
