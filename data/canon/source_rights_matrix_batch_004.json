@@ -49,19 +49,19 @@
       "textual_identity": "1 Meqabyan",
       "textual_source_available": "AVAILABLE",
       "rights_status": "MANUSCRIPT_ACCESS_CONFIRMED_RIGHTS_NOT_PUBLIC_DOMAIN_CONFIRMED",
-      "source": "Manuscrito Ge'ez British Library Or. 506, século XVIII, contendo os três livros de Meqabyan; o registro bibliográfico identifica os fólios 4r–87r para os três livros. Não foi localizada, nesta rodada, uma edição crítica histórica institucional equivalente à de Dillmann para Meqabyan I.",
-      "evidence": "O testemunho manuscrito de Or. 506 fornece acesso documental ao texto Ge'ez e identifica explicitamente os três livros. Fontes secundárias também registram que Meqabyan I–III são obras distintas e exclusivas da tradição etíope.",
-      "limitations": "Não elevar a LEVEL 3. O registro da British Library não fornece uma licença de domínio público para a reprodução do manuscrito/digitalização; portanto os direitos da fonte primária permanecem como questão institucional de acesso/licenciamento. Não usar traduções modernas de terceiros como fonte-base sem auditoria de direitos e proveniência.",
+      "source": "Manuscrito Ge'ez British Library Or. 506, século XVIII, contendo os três livros de Meqabyan; o registro bibliográfico identifica o item como መቃብያን (The Book of Maccabees). Não foi localizada, nesta rodada, uma edição crítica histórica institucional equivalente à de Dillmann para Meqabyan I.",
+      "evidence": "O catálogo da British Library confirma um manuscrito etíope em Ge'ez, do século XVIII, com Meqabyan. A documentação secundária consultada registra os três livros como obras distintas da tradição etíope e alerta contra sua identificação automática com os livros gregos de Maccabees.",
+      "limitations": "Não elevar a LEVEL 3. O catálogo da British Library não fornece, neste registro, uma licença de domínio público para reprodução do manuscrito/digitalização; portanto os direitos da fonte primária permanecem como questão institucional de acesso/licenciamento. Não usar traduções modernas de terceiros como fonte-base sem auditoria de direitos e proveniência.",
       "sources": ["BL-OR506-MEQABYAN", "MEQABYAN-SCHOLARLY-OVERVIEW"]
     }
   ],
-  "batch_conclusion": "OT-016 a OT-019 possuem fonte textual histórica identificada em edições de Dillmann e cópias institucionais com Public Domain Mark 1.0. OT-020 possui testemunho manuscrito Ge'ez verificável (British Library Or. 506), mas não teve nesta rodada uma edição crítica histórica com direitos públicos confirmados; seu status é deliberadamente restritivo e não deve ser convertido em autorização de reprodução. A investigação de OT-020 permanece bloqueada no nível de direitos/licenciamento da fonte primária, sem iniciar tradução.",
+  "batch_conclusion": "OT-016 a OT-019 possuem fonte textual histórica identificada em edições de Dillmann e cópias institucionais com Public Domain Mark 1.0. OT-020 possui testemunho manuscrito Ge'ez verificável na British Library, mas não teve nesta rodada uma edição crítica histórica com direitos públicos confirmados; seu status é deliberadamente restritivo e não deve ser convertido em autorização de reprodução. A investigação de OT-020 permanece bloqueada no nível de direitos/licenciamento da fonte primária, sem iniciar tradução.",
   "research_references": {
     "DILLMANN-1894-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/69640",
     "DILLMANN-BIBLIA-AETHIOPICA": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
     "DILLMANN-1861-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
     "BL-EZRA-SUTUEL": "https://searcharchives.bl.uk/catalog/040-002902239",
-    "BL-OR506-MEQABYAN": "https://searcharchives.bl.uk/catalog/040-002902239",
+    "BL-OR506-MEQABYAN": "https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Oriental+Manuscripts&f%5Blanguage_ssim%5D%5B%5D=Geez&per_page=50",
     "CORPUS-CORANICUM-JUDITH": "https://corpuscoranicum.de/de/verse-navigator/sura/14/verse/10/intertexts/1193",
     "MEQABYAN-SCHOLARLY-OVERVIEW": "https://ethiopiabible.com/meqabyan/"
   }
