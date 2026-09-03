@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "batch_id": "SOURCE-RIGHTS-004",
+  "date": "2026-09-03",
+  "purpose": "Registrar disponibilidade de fonte textual e direitos para OT-016 a OT-020 sem alterar a auditoria documental até consolidação posterior.",
+  "entries": [
+    {
+      "canonical_id": "OT-016",
+      "textual_identity": "1 Esdras + Ezra Apocalypse (Ezra Sutu'el)",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, tomus V (1894), Libri Apocryphi, contendo Esdrae Apocalypsis e Esdrae Graecus; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A edição de 1894 disponibiliza separadamente a tradição de Esdrae Apocalypsis e Esdrae Graecus em texto etíope com aparato crítico. A identificação de Ezra Sutu'el como Ezra Apocalypse é corroborada por catálogo de manuscrito etíope da British Library.",
+      "limitations": "A entrada canônica agrupa 1 Esdras e Ezra Sutu'el. A presença de duas designações não deve ser convertida automaticamente em dois livros canônicos independentes. A disponibilidade da edição histórica não constitui LEVEL 3.",
+      "sources": ["DILLMANN-1894-ULB-BONN", "BL-EZRA-SUTUEL"]
+    },
+    {
+      "canonical_id": "OT-017",
+      "textual_identity": "Tobit",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, tomus V (1894), Libri Apocryphi, contendo Tobith; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "O catálogo institucional identifica Tobith como parte do tomo V e informa texto etíope com aparato crítico. A edição digital institucional é marcada Public Domain Mark 1.0.",
+      "limitations": "Fonte histórica disponível; não constitui LEVEL 3 nem resolve automaticamente diferenças entre manuscritos posteriores.",
+      "sources": ["DILLMANN-1894-ULB-BONN", "DILLMANN-BIBLIA-AETHIOPICA"]
+    },
+    {
+      "canonical_id": "OT-018",
+      "textual_identity": "Judith",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, tomus V (1894), Libri Apocryphi, contendo Judith; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "O catálogo institucional identifica Judith como parte do tomo V e informa texto etíope com aparato crítico. Bibliografia acadêmica contemporânea também cita explicitamente a edição de Dillmann de 1894 para o texto etíope de Judith.",
+      "limitations": "Fonte histórica disponível; não constitui LEVEL 3.",
+      "sources": ["DILLMANN-1894-ULB-BONN", "CORPUS-CORANICUM-JUDITH"]
+    },
+    {
+      "canonical_id": "OT-019",
+      "textual_identity": "Esther",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, tomus II (1861–1871), Libri Regum, Paralipomenon, Esdrae, Esther; cópia digital ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A coleção institucional de Dillmann registra o tomo II como Libri Regum, Paralipomenon, Esdrae, Esther. O conjunto é disponibilizado pela ULB Bonn com indicação Public Domain Mark 1.0.",
+      "limitations": "A fonte histórica é suficiente para disponibilidade textual da entrada, mas não implica que toda tradição manuscrita de Esther tenha sido exaustivamente representada.",
+      "sources": ["DILLMANN-1861-ULB-BONN", "DILLMANN-BIBLIA-AETHIOPICA"]
+    },
+    {
+      "canonical_id": "OT-020",
+      "textual_identity": "1 Meqabyan",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "MANUSCRIPT_ACCESS_CONFIRMED_RIGHTS_NOT_PUBLIC_DOMAIN_CONFIRMED",
+      "source": "Manuscrito Ge'ez British Library Or. 506, século XVIII, contendo os três livros de Meqabyan; o registro bibliográfico identifica os fólios 4r–87r para os três livros. Não foi localizada, nesta rodada, uma edição crítica histórica institucional equivalente à de Dillmann para Meqabyan I.",
+      "evidence": "O testemunho manuscrito de Or. 506 fornece acesso documental ao texto Ge'ez e identifica explicitamente os três livros. Fontes secundárias também registram que Meqabyan I–III são obras distintas e exclusivas da tradição etíope.",
+      "limitations": "Não elevar a LEVEL 3. O registro da British Library não fornece uma licença de domínio público para a reprodução do manuscrito/digitalização; portanto os direitos da fonte primária permanecem como questão institucional de acesso/licenciamento. Não usar traduções modernas de terceiros como fonte-base sem auditoria de direitos e proveniência.",
+      "sources": ["BL-OR506-MEQABYAN", "MEQABYAN-SCHOLARLY-OVERVIEW"]
+    }
+  ],
+  "batch_conclusion": "OT-016 a OT-019 possuem fonte textual histórica identificada em edições de Dillmann e cópias institucionais com Public Domain Mark 1.0. OT-020 possui testemunho manuscrito Ge'ez verificável (British Library Or. 506), mas não teve nesta rodada uma edição crítica histórica com direitos públicos confirmados; seu status é deliberadamente restritivo e não deve ser convertido em autorização de reprodução. A investigação de OT-020 permanece bloqueada no nível de direitos/licenciamento da fonte primária, sem iniciar tradução.",
+  "research_references": {
+    "DILLMANN-1894-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/69640",
+    "DILLMANN-BIBLIA-AETHIOPICA": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
+    "DILLMANN-1861-ULB-BONN": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
+    "BL-EZRA-SUTUEL": "https://searcharchives.bl.uk/catalog/040-002902239",
+    "BL-OR506-MEQABYAN": "https://searcharchives.bl.uk/catalog/040-002902239",
+    "CORPUS-CORANICUM-JUDITH": "https://corpuscoranicum.de/de/verse-navigator/sura/14/verse/10/intertexts/1193",
+    "MEQABYAN-SCHOLARLY-OVERVIEW": "https://ethiopiabible.com/meqabyan/"
+  }
+}
