@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "batch_id": "SOURCE-RIGHTS-003",
+  "date": "2026-09-03",
+  "purpose": "Registrar disponibilidade de fonte textual e direitos para OT-011 a OT-015 sem elevar entradas a LEVEL 3.",
+  "entries": [
+    {
+      "canonical_id": "OT-011",
+      "textual_identity": "I Chronicles",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, Tomus II, Libri Regum, Paralipomenon, Esdrae, Esther, pars 1 (1861), edição crítica; cópia ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A bibliografia da edição crítica de Dillmann inclui Paralipomenon no Tomus II; a cópia institucional da ULB Bonn é digitalmente acessível e indicada como domínio público.",
+      "limitations": "Fonte histórica confirmada; a disponibilidade da edição não constitui LEVEL 3 nem demonstra uniformidade de todos os manuscritos.",
+      "sources": ["DILLMANN-REGUM-1861", "ULB-BONN-BIBLIA-AETHIOPICA"]
+    },
+    {
+      "canonical_id": "OT-012",
+      "textual_identity": "II Chronicles",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, Tomus II, Libri Regum, Paralipomenon, Esdrae, Esther, pars 1 (1861), edição crítica; cópia ULB Bonn marcada Public Domain Mark 1.0.",
+      "evidence": "A bibliografia da edição crítica de Dillmann inclui Paralipomenon no Tomus II; a cópia institucional da ULB Bonn é digitalmente acessível e indicada como domínio público.",
+      "limitations": "Fonte histórica confirmada; a disponibilidade da edição não constitui LEVEL 3 nem demonstra uniformidade de todos os manuscritos.",
+      "sources": ["DILLMANN-REGUM-1861", "ULB-BONN-BIBLIA-AETHIOPICA"]
+    },
+    {
+      "canonical_id": "OT-013",
+      "textual_identity": "Jubilees",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Liber Jubilaeorum (1859), edição do texto Ge'ez; fonte histórica digitalizada/public-domain.",
+      "evidence": "A bibliografia especializada identifica a edição de Dillmann de 1859 do Liber Jubilaeorum. A obra histórica é anterior aos prazos modernos de copyright e está disponível em acervos digitais.",
+      "limitations": "O status de domínio público aplica-se à edição histórica específica; não se estende automaticamente a VanderKam 1989 ou outras edições modernas. A entrada já tinha AVAILABLE e MIXED_TO_BE_VERIFIED; este lote resolve a existência de uma fonte histórica pública, não todos os direitos possíveis do corpus.",
+      "sources": ["DILLMANN-JUBILEES-1859", "ULB/GOOGLE-BOOKS-HISTORICAL"]
+    },
+    {
+      "canonical_id": "OT-014",
+      "textual_identity": "1 Enoch",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Liber Henoch (1851), edição do texto etíope baseada em cinco códices, com variantes; ULB Bonn.",
+      "evidence": "A ULB Bonn registra a edição de 1851 como texto etíope, baseado em cinco códices e com variantes. A edição histórica está em acervo institucional digital e é obra de domínio público.",
+      "limitations": "O status resolve a fonte histórica de Dillmann, mas não transfere direitos de Knibb 1978 ou de outras edições modernas. Não é LEVEL 3.",
+      "sources": ["DILLMANN-HENOCH-1851", "ULB-BONN-HENOCH"]
+    },
+    {
+      "canonical_id": "OT-015",
+      "textual_identity": "Ezra and Nehemiah",
+      "textual_source_available": "AVAILABLE",
+      "rights_status": "PUBLIC_DOMAIN_SOURCE_CONFIRMED",
+      "source": "August Dillmann, Biblia veteris Testamenti Aethiopica, Tomus II, Libri Regum, Paralipomenon, Esdrae, Esther (1861–1871), edição crítica; ULB Bonn.",
+      "evidence": "A coleção crítica de Dillmann inclui Esdrae no Tomus II; a ULB Bonn disponibiliza digitalmente a coleção e marca a edição histórica como Public Domain Mark 1.0. A forma exata da unidade OT-015 continua a ser tratada conforme o inventário canônico do projeto.",
+      "limitations": "A fonte histórica existe e é pública, mas a identificação textual exata da unidade 'Ezra and Nehemiah' não deve ser confundida com OT-016. A resolução da fronteira interna permanece documental/textual e não é convertida em LEVEL 3 neste lote.",
+      "sources": ["DILLMANN-REGUM-1861", "ULB-BONN-BIBLIA-AETHIOPICA"]
+    }
+  ],
+  "batch_conclusion": "OT-011 a OT-015 possuem fonte textual histórica identificável em edições de Dillmann e fonte digital institucional pública. OT-013 e OT-014 continuam permitindo o uso da edição histórica como fonte pública, sem presumir direitos sobre edições críticas modernas. OT-015 permanece com ressalva sobre a composição exata da unidade canônica. Nenhuma entrada é elevada a LEVEL 3.",
+  "research_references": {
+    "ULB-BONN-BIBLIA-AETHIOPICA": "https://digitale-sammlungen.ulb.uni-bonn.de/content/titleinfo/121591",
+    "ULB-BONN-HENOCH": "https://digitale-sammlungen.ulb.uni-bonn.de/content/structure/51640",
+    "TAU-SAMUEL-KINGS": "https://www.tau.ac.il/~hacohen/Regum/Information.html"
+  }
+}
